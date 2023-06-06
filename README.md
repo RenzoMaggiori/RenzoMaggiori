@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Renzo</h1>
+<h3 align="center">Passionate Epitech Software Student</h3>
 
+- 🌱 I’m currently learning **C, Python, Javascript, C#, Unity**
+- 👨‍💻 All of my projects are available at [https://github.com/RenzoMaggiori](https://github.com/RenzoMaggiori)
+- 📫 How to reach me **renzomaggiori@gmail.com**
 <!--
 **RenzoMaggiori/RenzoMaggiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
