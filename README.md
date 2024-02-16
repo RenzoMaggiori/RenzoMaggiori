@@ -21,3 +21,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzomaggiori&layout=compact&theme=radical" />
     </a>
 </p>
+
+## Languages and tools
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,html,css,react,tailwind,nextjs)](https://skillicons.dev)
+  <br/>
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,docker,java,py,github,git,vscode,figma)](https://skillicons.dev)
