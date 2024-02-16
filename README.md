@@ -23,6 +23,6 @@
 </p>
 
 ## Languages and tools
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,html,css,react,tailwind,nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,html,css,react,tailwind,nextjs,haskell)](https://skillicons.dev)
   <br/>
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,docker,java,py,github,git,vscode,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,docker,java,py,github,git,vscode,figma)](https://skillicons.dev)
