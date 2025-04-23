@@ -1,5 +1,5 @@
 # <h1 align="center">Hi there 👋, I'm Renzo</h1>
-# <h3 align="center">Passionate Epitech Software Student</h3>
+# <h3 align="center">Passionate Software Development Student</h3>
 <br/>
 <div align="center" dir="auto" id="badges">
   <a href="www.linkedin.com/in/renzomaggiori">
