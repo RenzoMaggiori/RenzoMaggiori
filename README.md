@@ -12,13 +12,13 @@
 
 <p align="center">
   <a>
-    <img src="https://github-readme-stats-theta-six-93.vercel.app/api?username=renzomaggiori&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
+    <img src="https://github-stats-eight-pied.vercel.app/api?username=renzomaggiori&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img src="https://github-readme-stats-theta-six-93.vercel.app/api/top-langs/?username=renzomaggiori&layout=compact&theme=radical" />
+    <a>
+      <img src="https://github-stats-eight-pied.vercel.app/api/top-langs/?username=renzomaggiori&layout=compact&theme=radical" />
     </a>
 </p>
 
